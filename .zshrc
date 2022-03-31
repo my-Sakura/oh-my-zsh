@@ -5,16 +5,19 @@ if [[ -r "${XDG_CACHE_HOME:-$HOME/.cache}/p10k-instant-prompt-${(%):-%n}.zsh" ]]
   source "${XDG_CACHE_HOME:-$HOME/.cache}/p10k-instant-prompt-${(%):-%n}.zsh"
 fi
 
+# homebrew env
 export PATH=$PATH:/opt/homebrew/bin
 
+# go env
+export PATH=$PATH:$HOME/.go/bin:$HOME/.go/current/bin
+
+# oh-my-zsh
 export ZSH="$HOME/.oh-my-zsh"
-
 ZSH_THEME="powerlevel10k/powerlevel10k"
-
 plugins=(git zsh-autosuggestions zsh-syntax-highlighting zsh-completions)
-
 source $ZSH/oh-my-zsh.sh
 
+# proxy
 alias proxy='export all_proxy=http://127.0.0.1:7890'
 alias unproxy='unset all_proxy'
 
