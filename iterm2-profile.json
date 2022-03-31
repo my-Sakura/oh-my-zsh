@@ -1,5 +1,6 @@
 {
   "Badge Text" : "Sakura",
+  "ASCII Ligatures" : false,
   "Working Directory" : "\/Users\/sakura",
   "Prompt Before Closing 2" : false,
   "Selected Text Color" : {
@@ -118,7 +119,7 @@
     "Blue Component" : "0",
     "Red Component" : "0.7686275"
   },
-  "Icon" : 1,
+  "Icon" : 0,
   "Link Color" : {
     "Red Component" : 0,
     "Color Space" : "sRGB",
@@ -127,7 +128,7 @@
     "Green Component" : 0.35915297269821167
   },
   "Use Non-ASCII Font" : true,
-  "Shortcut" : "T",
+  "Shortcut" : "9",
   "Use Custom Tab Title" : false,
   "Background Image Location" : "\/Users\/sakura\/Downloads\/富士山.jpeg",
   "Bold Color" : {
@@ -137,8 +138,9 @@
   },
   "Use Cursor Guide" : true,
   "Unlimited Scrollback" : false,
+  "Allow Title Setting" : false,
   "Custom Command" : "No",
-  "Title Components" : 2,
+  "Title Components" : 32,
   "Keyboard Map" : {
     "0xf700-0x260000" : {
       "Action" : 10,
@@ -353,8 +355,8 @@
     "Red Component" : "0.8"
   },
   "Name" : "sakura",
-  "Blinking Cursor" : true,
   "Guid" : "26B96097-07DC-4AAF-95BF-8DAD4FC655E5",
+  "Blinking Cursor" : true,
   "Badge Max Width" : 0.5,
   "Ansi 8 Color" : {
     "Green Component" : "0.3411765",
@@ -391,6 +393,7 @@
     "Blue Component" : "0.8117647",
     "Red Component" : "0.827451"
   },
+  "Place Prompt at First Column" : true,
   "Space" : 0,
   "Command" : "",
   "Terminal Type" : "xterm-256color",
@@ -442,5 +445,5 @@
     "Blue Component" : "0.4823529",
     "Red Component" : "0.4588235"
   },
-  "ASCII Ligatures" : false
+  "Set Local Environment Vars" : true
 }
