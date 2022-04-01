@@ -39,7 +39,7 @@
   },
   "Non-ASCII Anti Aliased" : true,
   "Sync Title" : false,
-  "Badge Font" : "Helvetica-Bold",
+  "Badge Font" : "Beirut",
   "Disable Window Resizing" : true,
   "Description" : "Default",
   "Close Sessions On End" : true,
@@ -130,11 +130,13 @@
   "Use Non-ASCII Font" : true,
   "Shortcut" : "9",
   "Use Custom Tab Title" : false,
-  "Background Image Location" : "\/Users\/sakura\/Downloads\/富士山.jpeg",
+  "Background Image Location" : "\/Users\/sakura\/Desktop\/images\/city.jpeg",
   "Bold Color" : {
-    "Green Component" : "1",
-    "Blue Component" : "1",
-    "Red Component" : "1"
+    "Red Component" : 0.32910335866927198,
+    "Color Space" : "sRGB",
+    "Blue Component" : 0.31599955260753632,
+    "Alpha Component" : 1,
+    "Green Component" : 0.9241943359375
   },
   "Use Cursor Guide" : true,
   "Unlimited Scrollback" : false,
@@ -323,7 +325,7 @@
     "Blue Component" : "0.1607843",
     "Red Component" : "0.9372549"
   },
-  "Badge Right Margin" : 113,
+  "Badge Right Margin" : 101,
   "Use Bold Font" : true,
   "Silence Bell" : false,
   "Ansi 12 Color" : {
@@ -357,7 +359,7 @@
   "Name" : "sakura",
   "Guid" : "26B96097-07DC-4AAF-95BF-8DAD4FC655E5",
   "Blinking Cursor" : true,
-  "Badge Max Width" : 0.5,
+  "Badge Max Width" : 0.54000000000000004,
   "Ansi 8 Color" : {
     "Green Component" : "0.3411765",
     "Blue Component" : "0.3254902",
@@ -377,7 +379,7 @@
     "Green Component" : 0.14910027384757996
   },
   "Ambiguous Double Width" : false,
-  "Badge Max Height" : 0.20000000000000001,
+  "Badge Max Height" : 0.23000000000000001,
   "Cursor Type" : 1,
   "Ansi 0 Color" : {
     "Green Component" : "0",
@@ -409,11 +411,11 @@
   },
   "Open Toolbelt" : false,
   "Tab Color" : {
-    "Red Component" : 0.33388200402259821,
+    "Red Component" : 0.048344157636165619,
     "Color Space" : "sRGB",
-    "Blue Component" : 0.90362548828125,
+    "Blue Component" : 0.100830078125,
     "Alpha Component" : 1,
-    "Green Component" : 0.59347277001324983
+    "Green Component" : 0.072258184107535692
   },
   "Ansi 6 Color" : {
     "Green Component" : "0.5960785",
@@ -427,7 +429,7 @@
     "Blue Component" : "0",
     "Red Component" : "0"
   },
-  "Badge Top Margin" : 10,
+  "Badge Top Margin" : 0,
   "Screen" : -1,
   "Custom Tab Title" : "",
   "Non Ascii Font" : "Monaco 12",
