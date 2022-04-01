@@ -11,6 +11,12 @@ export PATH=$PATH:/opt/homebrew/bin
 # go env
 export PATH=$PATH:$HOME/.go/bin:$HOME/.go/current/bin
 
+# flutter env
+export PATH=$PATH:$HOME/Desktop/environment/flutter/bin
+
+# rust env
+export PATH=$PATH:$HOME/.cargo/bin
+
 # oh-my-zsh
 export ZSH="$HOME/.oh-my-zsh"
 ZSH_THEME="powerlevel10k/powerlevel10k"
